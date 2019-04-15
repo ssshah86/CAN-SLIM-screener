@@ -6,9 +6,10 @@ Automated screener for William J O'Neil's winning CAN SLIM system. From the book
 2. [Control Flow](#Control-Flow)
 3. [Inputs](#Inputs)
 4. [Data Sources](#Data-Sources)
-5. [CAN SLIM](#CAN-SLIM)
-6. [Output](#Output)
-7. [Contributing](#Contributing)
+5. [Pre CANSLIM Chapter Notes](#Pre-CANSLIM-Chapter-Notes)
+6. [CAN SLIM](#CAN-SLIM)
+7. [Output](#Output)
+8. [Contributing](#Contributing)
 
 ## Quick Start
 ```
@@ -22,7 +23,15 @@ Diagram TBD
 User inputs, likely a ticker, maybe some dates
 
 ## Data Sources
-likely alpha vantage
+likely alpha vantage for charting
+unknown for quarterly & annual reports
+
+## Pre CANSLIM Chapter Notes
+* Find and focus on tight prices
+* Find pivot and observe volume % delta
+* Look to volume dry ups near lows
+* High n tight flag is very rare
+* Ascending bases can be confusing
 
 ## CAN SLIM
 These are my notes as I read the book
