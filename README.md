@@ -79,9 +79,16 @@ Automated Screening:
   * Also a 1-99 rating scale, 99 is better and is percentile ranking within sector.
 
 ### N - Newer Companies, New Products, New Management, New Highs Off Properly Formed Chart Bases
+* Need to find stocks that break out of proper bases that typically last 8 weeks to 15 months.
+* If the stock is more than 5-10% above the exact buy point off the base, then it should be avoided.
+* Look for important new products or services, or that have benefitted from new management or materially improved industry conditions. Buy their stock when they are emerging from sound, correctly analyzed price consolidation patterns and are close to, or making new price highs on increased volume.
+
 ### S - Supply and Demand: Big Volume Demand at Key Points
+
 ### L - Leader or Laggard: Which is Your Stock?
+
 ### I - Institutional Sponsorship
+
 ### M - Market Direction: How You Can Determine It
 
 ## Output
