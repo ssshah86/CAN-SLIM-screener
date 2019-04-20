@@ -92,6 +92,8 @@ Automated Screening:
 ### M - Market Direction: How You Can Determine It
 
 ## Output
+* A rating to indicate stock's strength when compared to screening criteria
+* Reminder of qualitiative factors to investigate
 
 ## Contributing
 TBD
