@@ -1,6 +1,9 @@
 # CAN-SLIM-screener
 Automated screener for William J O'Neil's winning CAN SLIM system. From the book: [How to Make Money in Stocks](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/0071614133)
 
+### Acronyms
+IBD: Investor's Business Daily, a weekly newspaper offering much of the data to conduct the CAN SLIM analysis.
+
 # TOC
 1. [Quick Start](#Quick-Start)
 2. [Control Flow](#Control-Flow)
@@ -84,10 +87,36 @@ Automated Screening:
 * Look for important new products or services, or that have benefitted from new management or materially improved industry conditions. Buy their stock when they are emerging from sound, correctly analyzed price consolidation patterns and are close to, or making new price highs on increased volume.
 
 ### S - Supply and Demand: Big Volume Demand at Key Points
+* Smaller volume stocks tend to be better performers, if all other factors are equal.
+* Executives hold > 1-3% in large companies and +3% in smaller companies is a good sign.
+* Small to mid size companies performing a buy back (of 10%) is considered a good sign if they qualify for the other CAN SLIM criteria.
+* Low Debt to Equity, even paying it down is considered good because the cost dedicated to interest will fall and earnings will rise.
+* Watch for convertible bonds, equity can be diluted when bonds expire.
+* Price down and volume down is positive; Price up and volume up is positive.
+* IBD provides: daily trading volume and percentage volume is above or below average 3M trailing volume
+* When a stock breaks out of a consolidation, trading volumes should rise 50% in many cases 100%
+* Analyze base pattern week by week, beginning first week a stock closes down in a new base and continuing each week until the current week, where you think it'll break out of the base
+  * judge price progress each week and whether it was on increased or decreased volume from the prior week
+  * also ensure the stock closed within spread
+  * do a both week by week check adn evaluate the pattern's overall shape to see if it is sound
 
 ### L - Leader or Laggard: Which is Your Stock?
+* Buy top 3, To qualify for top 3
+  * Best QE
+  * Best ROE
+  * Best sales growth
+  * Best margin
+  * Most dynamic stock-price action
+* Be wary of sympathy plays
+* Use Relative Price Strength (RS) from IBD
+  * To calculate RS, measure price performance for the given stock for the last 52 weeks. Every stock in the market is assigned a percentile from 1 to 99
+  * RS must be over 70, eliminate 69 and below -- identify as a laggard
+  * Ideally 80+
+  * Best are 90+ just before they break out of their first or second base structure
+  
 
 ### I - Institutional Sponsorship
+* Have at least 5 institutional investors
 
 ### M - Market Direction: How You Can Determine It
 
