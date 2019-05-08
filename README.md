@@ -113,6 +113,7 @@ Automated Screening:
   * RS must be over 70, eliminate 69 and below -- identify as a laggard
   * Ideally 80+
   * Best are 90+ just before they break out of their first or second base structure
+* In short term corrections (eg 10%) look for stocks that correct 1.5x-2x (eg 15-20%), not greater
   
 
 ### I - Institutional Sponsorship
